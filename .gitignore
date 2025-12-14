@@ -1,0 +1,14 @@
+node_modules/
+package-lock.json
+.env
+.env.local
+test-results/
+playwright-report/
+dist/
+build/
+.DS_Store
+*.log
+npm-debug.log*
+.git/
+.vscode/
+.idea/
