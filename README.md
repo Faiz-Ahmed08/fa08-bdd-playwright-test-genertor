@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c7342728-a197-48ae-9f7e-64354e02b4eb" />
 # FA08 - BDD Test Generator with Playwright
 
 A powerful **Behavior Driven Development (BDD) test generator** that converts Gherkin-style feature files into executable **Playwright tests** running on **Microsoft Edge**.
